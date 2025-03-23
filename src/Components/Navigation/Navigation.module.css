@@ -1,0 +1,16 @@
+.ul {
+  display: flex;
+  gap: 36px;
+}
+
+.link {
+  font-weight: 700;
+  font-size: 1.2em;
+  text-decoration: underline;
+  color: darkred;
+}
+
+.active {
+  color: black;
+  text-decoration: none;
+}

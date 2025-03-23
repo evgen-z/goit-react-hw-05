@@ -1,0 +1,32 @@
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+}
+
+.li {
+  margin-bottom: 48px;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.img {
+  width: 160px;
+  border-bottom: 1px solid black;
+}
+
+.actor {
+  font-weight: 600;
+  font-size: 1.1em;
+  line-height: 0.5em;
+}
+
+.p {
+  line-height: 0.5em;
+}
+
+.character {
+  font-weight: 600;
+  line-height: 0.5em;
+}
