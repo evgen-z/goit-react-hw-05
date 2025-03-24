@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import { Outlet } from "react-router-dom";
 import { useParams, useLocation } from "react-router-dom";
-import { fetchDetails } from "../../Components/API/Api";
+import { fetchDetails } from "../../сomponents/API/Api";
 import { Link, NavLink } from "react-router-dom";
 import css from "./MovieDetailsPage.module.css"
 import clsx from "clsx";
